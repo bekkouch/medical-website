@@ -31,9 +31,9 @@ const MentionsLegales = () => {
 
           <h2 className="text-2xl font-bold mb-6 text-foreground">2. Hébergeur</h2>
           <div className="text-muted-foreground space-y-1 mb-8">
-            <p><strong className="text-foreground">Raison sociale :</strong> Lovable (GPT Engineer Inc.)</p>
-            <p><strong className="text-foreground">Site web :</strong>{" "}
-              <a href="https://lovable.dev" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">https://lovable.dev</a>
+            <p><strong>Raison sociale :</strong> GitHub, Inc.</p>
+            <p><strong>Site web :</strong>{" "}
+              <a href="https://pages.github.com">https://pages.github.com</a>
             </p>
           </div>
 

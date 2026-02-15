@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://dr-nasri-expert.lovable.app/sitemap.xml
+Sitemap: https://dr-nasri-expert.app/sitemap.xml
