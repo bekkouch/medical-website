@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 220 20% 10%;
+    --foreground: 210 15% 95%;
+
+    --card: 220 18% 14%;
+    --card-foreground: 210 15% 95%;
+
+    --popover: 220 18% 14%;
+    --popover-foreground: 210 15% 95%;
+
+    --primary: 210 70% 58%;
+    --primary-foreground: 220 20% 8%;
+
+    --secondary: 220 15% 22%;
+    --secondary-foreground: 210 15% 90%;
+
+    --muted: 220 15% 18%;
+    --muted-foreground: 210 10% 72%;
+
+    --accent: 200 60% 55%;
+    --accent-foreground: 220 20% 8%;
+
+    --destructive: 0 80% 62%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 12% 28%;
+    --input: 220 12% 28%;
+    --ring: 210 70% 58%;
+
+    --radius: 0.5rem;
+
+    --sidebar-background: 220 20% 8%;
+    --sidebar-foreground: 210 15% 95%;
+    --sidebar-primary: 210 70% 58%;
+    --sidebar-primary-foreground: 220 20% 8%;
+    --sidebar-accent: 220 15% 18%;
+    --sidebar-accent-foreground: 210 15% 95%;
+    --sidebar-border: 220 12% 28%;
+    --sidebar-ring: 210 70% 58%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+    font-family: 'Source Sans 3', sans-serif;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: 'Playfair Display', serif;
+  }
+}
