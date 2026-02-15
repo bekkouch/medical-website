@@ -118,12 +118,12 @@ Le site respecte :
 - **Build** : Vite
 
 ## Structure du Site
-Accueil (/)
-Le Docteur (/le-docteur)
-Expertise Médicale (/expertise-medicale)
-Missions (/missions)
-Infos Pratiques (/infos-pratiques)
-Mentions Légales (/mentions-legales)
+- Accueil (/)
+- Le Docteur (/le-docteur)
+- Expertise Médicale (/expertise-medicale)
+- Missions (/missions)
+- Infos Pratiques (/infos-pratiques)
+- Mentions Légales (/mentions-legales)
 
 
 ## Objectifs du Site
