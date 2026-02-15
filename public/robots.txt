@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://dr-nasri-expert.app/sitemap.xml
+Sitemap: https://bekkouch.github.io/medical-website/sitemap.xml

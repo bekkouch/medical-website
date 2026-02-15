@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce qu'une expertise médicale ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'expertise médicale est une évaluation médicale indépendante réalisée par un médecin expert pour déterminer l'état de santé d'une personne, évaluer les préjudices corporels, et estimer les conséquences d'un accident ou d'une maladie."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Dans quels cas faire appel à un médecin expert ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Un médecin expert intervient pour les accidents de la route, accidents du travail, erreurs médicales, agressions, dans le cadre d'expertises judiciaires ou amiables pour l'évaluation du dommage corporel et l'indemnisation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la zone d'intervention du Dr NASRI ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le Dr NASRI intervient principalement à Grenoble, Échirolles, dans toute la Grenoble-Alpes Métropole et le département de l'Isère (38)."
+      }
+    }
+  ]
+}
+</script>

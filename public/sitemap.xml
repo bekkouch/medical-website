@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dr-nasri-expert.app/</loc>
+    <loc>https://bekkouch.github.io/medical-website/</loc>
     <priority>1.0</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://dr-nasri-expert.app/le-docteur</loc>
+    <loc>https://bekkouch.github.io/medical-website/le-docteur</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://dr-nasri-expert.app/expertise-medicale</loc>
+    <loc>https://bekkouch.github.io/medical-website/expertise-medicale</loc>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://dr-nasri-expert.app/missions</loc>
+    <loc>https://bekkouch.github.io/medical-website/missions</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://dr-nasri-expert.app/infos-pratiques</loc>
+    <loc>https://bekkouch.github.io/medical-website/infos-pratiques</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://dr-nasri-expert.app/contact</loc>
+    <loc>https://bekkouch.github.io/medical-website/contact</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
